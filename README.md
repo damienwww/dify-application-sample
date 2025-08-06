@@ -18,7 +18,7 @@
 
 ## 🖥️ 在线预览
 
-[查看演示](https://your-demo-url.com) | [项目截图](#截图)
+[查看演示](https://your-demo-url.com) | [项目截图](https://github.com/chen-banxia/dify-application-sample/blob/master/img/%E6%9A%97%E9%BB%91.png)
 
 ## 🚀 快速开始
 
@@ -137,13 +137,13 @@ docker run -d -p 80:80 my-ai-workshop
 ## 🎨 截图
 
 ### 桌面端 - 浅色主题
-![Desktop Light](docs/screenshots/desktop-light.png)
+![Desktop Light](screenshots/desktop-light.png)
 
 ### 桌面端 - 深色主题  
-![Desktop Dark](docs/screenshots/desktop-dark.png)
+![Desktop Dark](screenshots/desktop-dark.png)
 
 ### 移动端
-![Mobile](docs/screenshots/mobile.png)
+![Mobile](screenshots/mobile.png)
 
 ## 🤝 贡献
 

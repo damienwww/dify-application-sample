@@ -18,7 +18,7 @@
 
 ## 🖥️ 在线预览
 
-[查看演示](https://your-demo-url.com) | [项目截图](https://github.com/chen-banxia/dify-application-sample/blob/master/img/%E6%9A%97%E9%BB%91.png)
+[查看演示](https://your-demo-url.com) | [项目截图](https://github.com/chen-banxia/dify-application-sample/blob/master/screenshots/desktop-dark.png)
 
 ## 🚀 快速开始
 
